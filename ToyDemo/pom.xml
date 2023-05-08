@@ -35,14 +35,12 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>3.0.6</version>
         </dependency>
 
         <!--SOFABoot 模块隔离 stater-->
         <dependency>
             <groupId>com.alipay.sofa</groupId>
             <artifactId>isle-sofa-boot-starter</artifactId>
-            <version>3.13.0</version>
         </dependency>
 
         <dependency>
@@ -52,11 +50,11 @@
         </dependency>
 
 
-        <dependency>
-            <groupId>com.alipay.sofa</groupId>
-            <artifactId>runtime-sofa-boot-starter</artifactId>
-            <version>3.16.0</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.alipay.sofa</groupId>-->
+<!--            <artifactId>runtime-sofa-boot-starter</artifactId>-->
+<!--            <version>3.16.0</version>-->
+<!--        </dependency>-->
 
 
         <dependency>

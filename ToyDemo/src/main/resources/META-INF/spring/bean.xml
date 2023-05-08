@@ -7,7 +7,7 @@
             http://sofastack.io/schema/sofaboot http://sofastack.io/schema/sofaboot.xsd"
        default-autowire="byName">
 
-    <bean id="toyService" class="com.stori.toyservice.ToyServiceImpl">
+    <bean id="toy-service" class="com.stori.toyservice.ToyServiceImpl">
         <constructor-arg value="Tianyi Tan"/>
         <property name="name" value="Tianyi Tan"/>
     </bean>
